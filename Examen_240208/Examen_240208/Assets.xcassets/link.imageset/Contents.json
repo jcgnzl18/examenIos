@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "craiyon_163611_portrait_of_link_from_the_legend_of_zelda__breath_of_the_wild__1899_illustration_by_I.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "craiyon_163611_portrait_of_link_from_the_legend_of_zelda__breath_of_the_wild__1899_illustration_by_I@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "craiyon_163611_portrait_of_link_from_the_legend_of_zelda__breath_of_the_wild__1899_illustration_by_I@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

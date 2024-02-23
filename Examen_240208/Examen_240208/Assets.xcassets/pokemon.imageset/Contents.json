@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "craiyon_163548_Canvas_painting__warm_colors__epic_scenery__an_up_close_full_body_shot_of__Pok_mon__P.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "craiyon_163548_Canvas_painting__warm_colors__epic_scenery__an_up_close_full_body_shot_of__Pok_mon__P@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "craiyon_163548_Canvas_painting__warm_colors__epic_scenery__an_up_close_full_body_shot_of__Pok_mon__P@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
