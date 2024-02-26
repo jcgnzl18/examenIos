@@ -45,7 +45,7 @@ class UnoViewController: UIViewController,UIImagePickerControllerDelegate, UINav
         
         present(alertController, animated: true, completion: nil)
         
-        UIImageWriteToSavedPhotosAlbum(imag1.image! , self, #selector(imagen(_:didFinishSavingWithError:contextInfo:)), nil)
+        UIImageWriteToSavedPhotosAlbum(imag2.image! , self, #selector(imagen(_:didFinishSavingWithError:contextInfo:)), nil)
         
         
     }
@@ -61,7 +61,7 @@ class UnoViewController: UIViewController,UIImagePickerControllerDelegate, UINav
         
         present(alertController, animated: true, completion: nil)
         
-        UIImageWriteToSavedPhotosAlbum(imag1.image! , self, #selector(imagen(_:didFinishSavingWithError:contextInfo:)), nil)
+        UIImageWriteToSavedPhotosAlbum(imag3.image! , self, #selector(imagen(_:didFinishSavingWithError:contextInfo:)), nil)
         
         
         
@@ -78,7 +78,7 @@ class UnoViewController: UIViewController,UIImagePickerControllerDelegate, UINav
         
         present(alertController, animated: true, completion: nil)
         
-        UIImageWriteToSavedPhotosAlbum(imag1.image! , self, #selector(imagen(_:didFinishSavingWithError:contextInfo:)), nil)
+        UIImageWriteToSavedPhotosAlbum(imgage.image! , self, #selector(imagen(_:didFinishSavingWithError:contextInfo:)), nil)
     }
     
     
